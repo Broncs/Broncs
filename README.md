@@ -8,7 +8,7 @@ resolver problemas, automatizar coisas e construir software.
 
 Atualmente estou aprendendo desenvolvimento web FrontEnd utilizando , html css, js, react 
 - 🔭 Atualmente sou um estudante de ADS na Faculdade Eniac.
-- 📚 Atualmente estou aprendendo desenvolvimento web utilizando a MERN stack , mongoDB,express, React , Node.js .
+- 📚 Atualmente estou aprendendo desenvolvimento web Front-end , utilizando  , HTML, CSS ,JS, React .
 - 👯 Estou procurando um estágio de desenvolvimento Web como Front-End. 
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/jhonatan-mendes-b275561a4/) [Gmail](mailto:jhowgato15@gmail.com)
 
