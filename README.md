@@ -12,5 +12,4 @@ Atualmente estou aprendendo desenvolvimento web FrontEnd utilizando , html css, 
 - 👯 Estou procurando um estágio de desenvolvimento Web como Front-End. 
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/jhonatan-mendes-b275561a4/) [Gmail](mailto:jhowgato15@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+
