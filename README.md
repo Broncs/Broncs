@@ -3,7 +3,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ## Eu sou um estudante de analise e desenvolvimento de sistemas apaixonado por escrever códigos, resolver problemas, automatizar coisas e desenvolver interfaces.
-- 🔭 Atualmente estou cursando ADS na Faculdade Eniac 3/5 semestre.
+- 🔭 Atualmente estou cursando ADS na Faculdade Eniac 5/5 semestre.
 - 📚 Atualmente estou aprendendo tudo 🤣. Sempre buscando novos conhecimentos.
 - 👯 Estou procurando uma vaga junior /ou estagio de desenvolvimento Web como Front-End. 
 
